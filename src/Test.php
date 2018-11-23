@@ -14,7 +14,7 @@
   
     public function get()
     {
-      Index::get();
+     $list = array();
       
       
       
